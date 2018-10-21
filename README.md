@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The welcome bot graciously welcomes everybody who uses Github for the first time!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Welcomes everybody who uses Github for the first time!
+- Helps users through their journey on Github.
 
 ## Getting started
 
